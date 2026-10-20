@@ -1,0 +1,26 @@
+{
+  "id": "F7",
+  "name": "Payment descriptor enrichment API",
+  "problem": "Clean messy merchant strings into merchant names/categories via an API with accuracy benchmark and caching.",
+  "results": [
+    [
+      "Labeled synthetic descriptors",
+      "labeled_descriptors",
+      ""
+    ],
+    [
+      "Merchant-ID accuracy",
+      "accuracy",
+      ""
+    ],
+    [
+      "API p99 latency",
+      "p99_api_ms",
+      " ms"
+    ]
+  ],
+  "diagram": "SyntheticDescriptor --> Normalize --> CatalogMatchOrUnknown --> LRUCache --> FastAPI",
+  "limits": "Synthetic merchants, payment descriptors and labels only. Matching uses a fixed original catalog with normalization and conservative fuzzy matching; this is not a financial network integration. Exact unknown labels count toward accuracy, and ambiguous matches remain unknown. API timing includes local FastAPI TestClient transport, not internet latency. Cache keys are bounded and scoped to this fixed catalog; dynamic catalog invalidation is not implemented. Raw labels, predictions and latency samples are retained in evidence/.",
+  "next": "Calibrate thresholds on independent synthetic corruptions and version the cache with catalog updates.",
+  "status": "done"
+}

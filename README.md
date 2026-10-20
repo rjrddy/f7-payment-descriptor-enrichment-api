@@ -1,19 +1,25 @@
 1. Clean messy merchant strings into merchant names/categories via an API with accuracy benchmark and caching.
 
 2. Result:
-   Acceptance: not measured  
-   Performance: not measured  
-   Correctness: not measured
+   Labeled synthetic descriptors: 600  
+   Merchant-ID accuracy: 1.0  
+   API p99 latency: 1.8739999504759908 ms  
+
+   Measured with `make bench`: [raw results](evidence/bench.json), [command output](evidence/checks.log), [environment](evidence/environment.json).
 
 3. Architecture:
 ```mermaid
 flowchart LR
-    Specification --> AwaitingWaveApproval --> Implementation
+    SyntheticDescriptor --> Normalize --> CatalogMatchOrUnknown --> LRUCache --> FastAPI
 ```
 
 4. Run it:
-No runnable implementation yet. This is a planned Wave 3 project.
+```sh
+make setup
+make lint test bench
+make demo
+```
 
-5. Decisions and limits: Public repository reserved for independent work using public or synthetic data. Implementation has not started. No company affiliation or usage is claimed. Acceptance check: Accuracy on a labeled sample; p99 latency.
+5. Decisions and limits: Synthetic merchants, payment descriptors and labels only. Matching uses a fixed original catalog with normalization and conservative fuzzy matching; this is not a financial network integration. Exact unknown labels count toward accuracy, and ambiguous matches remain unknown. API timing includes local FastAPI TestClient transport, not internet latency. Cache keys are bounded and scoped to this fixed catalog; dynamic catalog invalidation is not implemented. Raw labels, predictions and latency samples are retained in evidence/.
 
-6. Next: Implement after approval for Wave 3, then run and publish the required acceptance commands.
+6. Next: Calibrate thresholds on independent synthetic corruptions and version the cache with catalog updates.

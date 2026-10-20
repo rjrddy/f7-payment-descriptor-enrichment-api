@@ -1,0 +1,6002 @@
+[
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #13278",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #42098",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #28289",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #98696",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #87397",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #14165",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #22280",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #40495",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 08 #83563",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #95181",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #38893",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #87236",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 12 #10851",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 13 #65392",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #46421",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 15 #38221",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #23396",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 17 #59797",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #57052",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 19 #89131",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Junipre Cafe 00 #15695",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #80284",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #59615",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #82357",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #92397",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #85674",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #19116",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 07 #96673",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #47930",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 09 #40512",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 10 #59823",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 11 #69429",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 12 #31319",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 13 #56566",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 14 #97841",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 15 #99593",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 16 #89840",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #80010",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 18 #31417",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #59735",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Junipre Cafe 00 #93886",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 01 #99733",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 02 #17331",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 03 #14207",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #62581",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #18675",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #84341",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #37869",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #61856",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 09 #28726",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 10 #28301",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #83579",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 12 #86622",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #86484",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 14 #57447",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 15 #28131",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 16 #21915",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 17 #24371",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 18 #92240",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 19 #99192",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #88172",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 01 #60432",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 02 #88104",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 03 #79352",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #82512",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 05 #99166",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #99353",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #94012",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 08 #24621",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #66985",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #69470",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 11 #44522",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 12 #76542",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #91959",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #93748",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 15 #30032",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #31174",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 17 #88504",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 18 #74042",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #24662",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Junipre Cafe 00 #50306",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 01 #17592",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #84364",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #21226",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 04 #19071",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 05 #26828",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 06 #82063",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #44741",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #37760",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #50857",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #98039",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 11 #67422",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #25860",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 13 #39451",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 14 #54313",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #87110",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 16 #87128",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #10942",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #92719",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #40007",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #14117",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #19287",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #46500",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 03 #38080",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 04 #84847",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #41850",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 06 #63354",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #22363",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 08 #96374",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 09 #56438",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #63883",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #17100",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #17944",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #54473",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 14 #42591",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 15 #34931",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 16 #28373",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 17 #34050",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 18 #70637",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 19 #19880",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #82132",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 01 #16630",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #22224",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 03 #31798",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 04 #73653",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #38016",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 06 #17685",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #59672",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 08 #61173",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #69638",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 10 #65444",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #30289",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 12 #48890",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 13 #17665",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 14 #51104",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #16572",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 16 #75909",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #17455",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #34356",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #87992",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #98501",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 01 #62923",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #84668",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 03 #85880",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #91183",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 05 #64948",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 06 #44179",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #97782",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 08 #41285",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #61876",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #98039",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 11 #69929",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 12 #19508",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #70068",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 14 #19602",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 15 #76307",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #27361",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 17 #19016",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 18 #58434",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 19 #30676",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #81200",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #90173",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #97538",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 03 #96951",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #27601",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #25129",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #82512",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #45697",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 08 #89276",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #54942",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #93130",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 11 #76244",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #42914",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #22097",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 14 #46265",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #10464",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #27146",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 17 #31178",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #82309",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #83519",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #24663",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 01 #29536",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #58393",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 03 #66333",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 04 #15482",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #57795",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #56898",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #99399",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #97416",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 09 #56357",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #91351",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #41029",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 12 #33206",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #13248",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 14 #53540",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #97806",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 16 #44970",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #24168",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #15075",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #39154",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Junipre Cafe 00 #70332",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #50001",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #39219",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #96511",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 04 #62227",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #46517",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #46585",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #94080",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #99065",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #13617",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 10 #44237",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #86099",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 12 #15014",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #88193",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 14 #55309",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 15 #67199",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 16 #60488",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #43386",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #67154",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #78146",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Junipre Cafe 00 #57739",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #19171",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 02 #91678",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 03 #96951",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #49363",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #97410",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 06 #52753",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 07 #48752",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #35144",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 09 #97153",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #98777",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #90676",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 12 #63225",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #49829",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #37549",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #86019",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #70946",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 17 #67954",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 18 #77000",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #32241",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #47196",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #22240",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #98184",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 03 #39444",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 04 #29313",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 05 #16057",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #72277",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 07 #69692",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #92544",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #60328",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #62383",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #29342",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #23970",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #38683",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 14 #77889",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #16582",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 16 #25906",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 17 #27477",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #97500",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 19 #68008",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #81810",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #30861",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 02 #68991",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 03 #42406",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #78327",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #92149",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #45992",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 07 #20155",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 08 #40735",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #54020",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 10 #80798",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 11 #28136",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 12 #40311",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #30028",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 14 #18418",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #63424",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #81121",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 17 #64496",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #37110",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #61049",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #85456",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #72518",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #56105",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 03 #61116",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 04 #80545",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 05 #73993",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #45774",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 07 #73654",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 08 #60968",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #97670",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #31632",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #26728",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #61645",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #21003",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 14 #27786",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #33819",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 16 #44099",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 17 #52906",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 18 #69598",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 19 #54236",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #46471",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #43065",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #71644",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #80702",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #55870",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 05 #95215",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #95426",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 07 #14067",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #36130",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 09 #91439",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #41266",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #72070",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #83920",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 13 #70952",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #58351",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 15 #89415",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 16 #31465",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 17 #24168",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #50888",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #61990",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Junipre Cafe 00 #19961",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 01 #23356",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 02 #99687",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #84177",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #55508",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #96706",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 06 #19038",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #11658",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #74251",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 09 #66822",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 10 #93307",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #30052",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #33086",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 13 #90728",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 14 #70931",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #87656",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #52245",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #21359",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 18 #69087",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 19 #70910",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #54092",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 01 #74789",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 02 #33834",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 03 #37802",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #43862",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #46655",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 06 #82848",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 07 #77715",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #21221",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #63271",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #82768",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #72402",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #68743",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 13 #22196",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #39045",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #41890",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #97026",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 17 #72031",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 18 #65771",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 19 #56112",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Junipre Cafe 00 #45509",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #42951",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #25814",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 03 #51359",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #80236",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 05 #35105",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #73464",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #87278",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 08 #23176",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #48829",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #57301",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #49618",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #80010",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 13 #45954",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 14 #17146",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 15 #26551",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 16 #23446",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 17 #85243",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 18 #71524",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #67733",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Junipre Cafe 00 #34164",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 01 #43092",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 02 #24953",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #62521",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 04 #19710",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 05 #29887",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #83772",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #21164",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #25525",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 09 #89471",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #78494",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #69049",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #48974",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #50026",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 14 #89905",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #37235",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 16 #44687",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 17 #30585",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 18 #32782",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #30517",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #63545",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #87832",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 02 #48175",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #40340",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #47056",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #19329",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #44675",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #65723",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 08 #81376",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #94886",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #44816",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 11 #19359",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #31747",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 13 #87993",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #67560",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #71433",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #62757",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 17 #75597",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #67377",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #88385",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #66626",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #89129",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 02 #13390",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #40005",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 04 #98117",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 05 #85529",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 06 #32962",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 07 #78021",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #46458",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #86720",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 10 #93202",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #21959",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #55607",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #53687",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #97835",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #31079",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #63955",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 17 #47777",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #82102",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #69614",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Junipre Cafe 00 #51224",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #52372",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 02 #62976",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #96200",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 04 #64165",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Orion Tools 05 #34586",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 06 #91609",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 07 #91973",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 08 #16764",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 09 #45003",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 10 #47752",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #73532",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #13783",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 13 #30758",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #82199",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #82384",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 16 #22217",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #24871",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #25396",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 19 #75323",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Junipre Cafe 00 #76698",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 01 #64459",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 02 #71894",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 03 #69871",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 04 #60277",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 05 #88561",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 06 #19150",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Cedar Market 07 #64387",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 08 #76550",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 09 #10336",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 10 #49132",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #29476",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Juniper Cafe 12 #80592",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #55236",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 14 #82340",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 15 #69682",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 16 #34727",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Orion Tools 17 #84946",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 18 #40613",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 19 #15720",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Junipre Cafe 00 #71993",
+    "truth": "0",
+    "actual": {
+      "id": "0",
+      "name": "Synthetic Juniper Cafe 00",
+      "category": "food",
+      "confidence": 0.96
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 01 #60604",
+    "truth": "1",
+    "actual": {
+      "id": "1",
+      "name": "Synthetic Orion Tools 01",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Meadow Books 02 #74923",
+    "truth": "2",
+    "actual": {
+      "id": "2",
+      "name": "Synthetic Meadow Books 02",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 03 #26547",
+    "truth": "3",
+    "actual": {
+      "id": "3",
+      "name": "Synthetic Cedar Market 03",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Juniper Cafe 04 #23154",
+    "truth": "4",
+    "actual": {
+      "id": "4",
+      "name": "Synthetic Juniper Cafe 04",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 05 #23069",
+    "truth": "5",
+    "actual": {
+      "id": "5",
+      "name": "Synthetic Orion Tools 05",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 06 #12011",
+    "truth": "6",
+    "actual": {
+      "id": "6",
+      "name": "Synthetic Meadow Books 06",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Cedar Market 07 #63736",
+    "truth": "7",
+    "actual": {
+      "id": "7",
+      "name": "Synthetic Cedar Market 07",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "TST* Synthetic Juniper Cafe 08 #19807",
+    "truth": "8",
+    "actual": {
+      "id": "8",
+      "name": "Synthetic Juniper Cafe 08",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 09 #44737",
+    "truth": "9",
+    "actual": {
+      "id": "9",
+      "name": "Synthetic Orion Tools 09",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Meadow Books 10 #91691",
+    "truth": "10",
+    "actual": {
+      "id": "10",
+      "name": "Synthetic Meadow Books 10",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Cedar Market 11 #95175",
+    "truth": "11",
+    "actual": {
+      "id": "11",
+      "name": "Synthetic Cedar Market 11",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 12 #53065",
+    "truth": "12",
+    "actual": {
+      "id": "12",
+      "name": "Synthetic Juniper Cafe 12",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Orion Tools 13 #51505",
+    "truth": "13",
+    "actual": {
+      "id": "13",
+      "name": "Synthetic Orion Tools 13",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "Synthetic Meadow Books 14 #80912",
+    "truth": "14",
+    "actual": {
+      "id": "14",
+      "name": "Synthetic Meadow Books 14",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 15 #90931",
+    "truth": "15",
+    "actual": {
+      "id": "15",
+      "name": "Synthetic Cedar Market 15",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Juniper Cafe 16 #40771",
+    "truth": "16",
+    "actual": {
+      "id": "16",
+      "name": "Synthetic Juniper Cafe 16",
+      "category": "food",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "POS* Synthetic Orion Tools 17 #39817",
+    "truth": "17",
+    "actual": {
+      "id": "17",
+      "name": "Synthetic Orion Tools 17",
+      "category": "hardware",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Meadow Books 18 #66881",
+    "truth": "18",
+    "actual": {
+      "id": "18",
+      "name": "Synthetic Meadow Books 18",
+      "category": "books",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "SQ* Synthetic Cedar Market 19 #93066",
+    "truth": "19",
+    "actual": {
+      "id": "19",
+      "name": "Synthetic Cedar Market 19",
+      "category": "groceries",
+      "confidence": 1.0
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 0",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.34146341463414637
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 1",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.34146341463414637
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 2",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 3",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.34146341463414637
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 4",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 5",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.34146341463414637
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 6",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 7",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.34146341463414637
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 8",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 9",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.34146341463414637
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 10",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.37209302325581395
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 11",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.4186046511627907
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 12",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.4186046511627907
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 13",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.38095238095238093
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 14",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.37209302325581395
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 15",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.4186046511627907
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 16",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.4186046511627907
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 17",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.38095238095238093
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 18",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.37209302325581395
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 19",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.4186046511627907
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 20",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 21",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 22",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 23",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 24",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 25",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 26",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 27",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 28",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 29",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 30",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 31",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 32",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 33",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 34",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 35",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 36",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 37",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 38",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 39",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 40",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 41",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 42",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 43",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 44",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 45",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 46",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 47",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 48",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 49",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 50",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 51",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 52",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 53",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 54",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 55",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 56",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 57",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 58",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 59",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 60",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 61",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 62",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 63",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 64",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 65",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 66",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 67",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 68",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 69",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 70",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 71",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 72",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 73",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 74",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 75",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 76",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 77",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 78",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 79",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 80",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 81",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 82",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 83",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 84",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 85",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 86",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 87",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 88",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.32558139534883723
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 89",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 90",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 91",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 92",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 93",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 94",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 95",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 96",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 97",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 98",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  },
+  {
+    "descriptor": "UNLISTED VENDOR 99",
+    "truth": null,
+    "actual": {
+      "id": null,
+      "name": null,
+      "category": "unknown",
+      "confidence": 0.3333333333333333
+    }
+  }
+]
